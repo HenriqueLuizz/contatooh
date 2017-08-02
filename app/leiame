@@ -1,0 +1,8 @@
+Contatooh
+app
+controllers - Controladores chamados pela rotas  da aplicação
+models - models que representam o domínio do problema
+routes - rotas da aplicação
+views - views do template engine
+config - configuração do express, banco de dados, ect.
+public - todos os arquivos acessiveis diretamente pelo navegador	
